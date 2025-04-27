@@ -4,7 +4,7 @@ An R script that converts abstract entries into a formatted PDF booklet for acad
 
 ## Requirements
 
-- R 4.0.0+
+- R 4.1.0+
 - R packages:
   - readr
   - rmarkdown
